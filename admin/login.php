@@ -8,6 +8,7 @@ include "koneksi.php";
 <meta charset="utf-8">
 <title>TambahBelanja</title>
 <link href="theme.css" rel="stylesheet" type="text/css">
+<link href="logo2.png" rel="shortcut icon">
 </head>
 <body>
 <?php
