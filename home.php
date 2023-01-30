@@ -6,8 +6,8 @@
 		<div class="produk-title">PRODUK TERBARU</div> 
         <div class="row">
         	<?php
-                $produktebaru=mysqli_query($koneksi,"SELECT * FROM produk ORDER BY idproduk DESC LIMIT 0,6");
-                while($tampilproduk=mysqli_fetch_array($produktebaru)){
+                    $produktebaru=mysqli_query($koneksi,"SELECT * FROM produk ORDER BY idproduk DESC LIMIT 0,6");
+                    while($tampilproduk=mysqli_fetch_array($produktebaru)){
             ?>
             <div class="col-4">
             	<div class="box-barang">
