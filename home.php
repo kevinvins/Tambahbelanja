@@ -50,21 +50,21 @@
                         <img src="produk2.jpg">
                         <div class="barang-judul">Samsung Galaxy S22</div>
                         <div class="barang-deskripsi">Spesifikasi : Android 12 with One UI 4.1, Qualcomm Snapdragon 8 Gen 1.</div>
-                        <div class="barang-harga">Rp. 20.000.000</div>
+                        <div class="barang-harga">Rp. 18.000.000</div>
                     </div></div></div></div>
                 <div class="col-4"><div class="box-barang">
                         <img src="produk.jpg">
-                        <div class="barang-judul">Judul Produk</div>
-                        <div class="barang-deskripsi">silahkan tuliskan Deskripsi Singkat disini ...</div>
-                        <div class="barang-harga">Rp. 20.000.000</div>
+                        <div class="barang-judul">Tas Jadul</div>
+                        <div class="barang-deskripsi">tas ini terbuat dari bahan sintetis anti hujan, anti karat, dan fireproof aman untuk dibawa pada saat pemadaman api.</div>
+                        <div class="barang-harga">Rp. 300.000.000</div>
                     </div></div>
             
             <div class="row">
                 <div class="col-4"><div class="box-barang">
                         <img src="produk.jpg">
-                        <div class="barang-judul">Judul Produk</div>
-                        <div class="barang-deskripsi">silahkan tuliskan Deskripsi Singkat disini ...</div>
-                        <div class="barang-harga">Rp. 20.000.000</div>
+                        <div class="barang-judul">Realme 13</div>
+                        <div class="barang-deskripsi">Spesifikasi : Android 13 with Realme UI 5.1, Qualcomm Snapdragon 8 Gen 3, Ram 16 GB hingga 32 GB, Rom 256 GB hingga 512 GB</div>
+                        <div class="barang-harga">Rp. 17.000.000</div>
                     </div></div>
                 <div class="col-4"><div class="box-barang">
                         <img src="produk.jpg">
